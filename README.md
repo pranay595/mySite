@@ -1,0 +1,2 @@
+# mySite
+web view only
